@@ -43,7 +43,7 @@ módulos disponíveis.
 ```bash
 # Agora você pode instalar os módulos mais necessários, basta trocar a versão pela do PHP ou das versões que você quer instalar
 
-sudo apt install openssl 7.2-curl 7.2-gd 7.2-imagick 7.2-json 7.2-mbstring 7.2-mcrypt 7.2-common 7.2-bcmath 7.2-xml 7.2-zip 7.2-mysql 7.2-intl 7.2-mongodb 7.2-gmp 7.2-soap
+sudo apt install openssl php7.2-curl php7.2-gd php7.2-imagick php7.2-json php7.2-mbstring php7.2-mcrypt php7.2-common php7.2-bcmath php7.2-xml php7.2-zip php7.2-mysql php7.2-intl php7.2-mongodb php7.2-gmp php7.2-soap
 
 ```
 
